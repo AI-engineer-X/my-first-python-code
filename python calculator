@@ -1,10 +1,15 @@
-a =inputstring[enter first number :]
-b =inputstring[enter second number :]
-print [addition:]
-print [a+b]
-print [subrtaction]
-print [a-b]
-print [multiplication]
-print [a*b]
-print [division]
-print [a/b]
+
+a = float(input("Enter first number: "))
+b = float(input("Enter second number: "))
+
+print("Addition:")
+print(a + b)
+
+print("Subtraction:")
+print(a - b)
+
+print("Multiplication:")
+print(a * b)
+
+print("Division:")
+print(a / b)
