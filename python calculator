@@ -1,1 +1,10 @@
-h
+a =inputstring[enter first number :]
+b =inputstring[enter second number :]
+print [addition:]
+print [a+b]
+print [subrtaction]
+print [a-b]
+print [multiplication]
+print [a*b]
+print [division]
+print [a/b]
